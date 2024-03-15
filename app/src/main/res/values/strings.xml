@@ -1,0 +1,102 @@
+<resources>
+    <string name="app_name">Fruits Information</string>
+    <string name="fruits_name">Fruit Name</string>
+    <string name="fruits_scientific_name">Fruit Scientific Name</string>
+    <string name="fruits_nutritional_content">Fruit Nutritional content</string>
+    <string name="fruits_benefit">Fruit Benefit</string>
+    <string name="nutritional_content">Nutritions:</string>
+    <string name="benefit">Benefits:</string>
+    <string name="about_name">Rifqi Farel Muhammad</string>
+    <string name="about_email">rifqifarel222@gmail.com</string>
+    <string name="share">Share</string>
+
+    <string-array name="fruit_name_data">
+        <item>Banana</item>
+        <item>Apple</item>
+        <item>Mango</item>
+        <item>Orange</item>
+        <item>Pineapple</item>
+        <item>Watermelon</item>
+        <item>Avocado</item>
+        <item>Strawberry</item>
+        <item>Grape</item>
+        <item>Papaya</item>
+        <item>Dragon Fruit</item>
+        <item>Star Fruit</item>
+    </string-array>
+
+    <string-array name="fruit_scientific_name_data">
+        <item>Musa</item>
+        <item>Malus pumila</item>
+        <item>Mangifera indica</item>
+        <item>Citrus ×sinensis</item>
+        <item>Ananas comosus</item>
+        <item>Citrullus lanatus</item>
+        <item>Persea americana</item>
+        <item>Fragaria ×ananassa</item>
+        <item>Vitis</item>
+        <item>Asimina triloba</item>
+        <item>Hylocereus undatus</item>
+        <item>Averrhoa carambola</item>
+    </string-array>
+
+    <string-array name="fruit_description_data">
+        <item>Bananas are tropical fruits with an elongated, curved shape. They start green, turning yellow when ripe, and have a sweet taste. Bananas are versatile and can be enjoyed on their own or in various dishes.</item>
+        <item>Apples are round fruits with a smooth skin that can be red, green, or yellow. They have a crisp texture and a sweet or tart taste. They come in various varieties, each offering a unique flavor profile. Apples are commonly eaten fresh, used in cooking, or pressed into juice.</item>
+        <item>Mangoes are tropical fruits with a distinctive oval or round shape and a smooth skin that can range from green to various shades of yellow, orange, or red when ripe. They are commonly enjoyed fresh, added to salads, blended into smoothies, or used in various culinary dishes.</item>
+        <item>Oranges are citrus fruits known for their round shape and bright orange color. They have a juicy, pulpy interior with a sweet and tangy flavor.  They are commonly eaten fresh, juiced, or used as a refreshing addition to salads and desserts. The peel is often used for zest, adding citrusy flavor to various dishes.</item>
+        <item>Pineapples are tropical fruits characterized by their spiky, rough exterior and sweet, juicy, yellow flesh. They have a refreshing and tropical flavor with a combination of sweetness and tartness. They can be enjoyed fresh, sliced, or added to fruit salads, smoothies, and desserts. The outer skin and crown are typically removed before consumption.</item>
+        <item>Watermelons are large, juicy fruits known for their vibrant green rind and bright red or pink flesh, which is interspersed with black seeds or seedless in some varieties. They have a sweet and refreshing taste with a high water content, making them a hydrating summer treat. Typically enjoyed fresh, they are often sliced into wedges or cubes, making them a popular choice for picnics and summertime snacks.</item>
+        <item>Avocados are creamy, green fruits with a smooth skin and a unique pear-like shape. They have a buttery texture and a mild, nutty flavor. They are commonly used in various culinary applications, such as guacamole, salads, sandwiches, and smoothies. The fruit versatility and nutritional value make it a popular choice for both savory and sweet dishes.</item>
+        <item>Strawberries are small, red berries with a sweet and slightly tart flavor. They are characterized by their bright red color, tiny seeds that dot their surface, and a green leafy cap or hull. They are commonly enjoyed fresh, added to salads, used in desserts, or blended into smoothies. Strawberries are a versatile fruit that adds a burst of sweetness to a variety of dishes.</item>
+        <item>Grapes are small, round fruits that come in various colors, including red, green, and purple. They grow in clusters on grapevines and are known for their sweet and juicy taste. They are enjoyed as a fresh snack, added to fruit salads, or pressed into juice. Grapes are also used in the production of wine and raisins, showcasing their versatility in both sweet and savory culinary applications.</item>
+        <item>Papaya is a tropical fruit with a soft, orange or yellow flesh and greenish skin. It has a sweet and tropical flavor with a smooth texture. It is commonly enjoyed fresh, sliced, or blended into smoothies. Papaya is a popular addition to fruit salads and desserts, and its enzymes make it a natural meat tenderizer.</item>
+        <item>Dragon fruit, also known as pitaya, is a visually striking tropical fruit with a vibrant pink or yellow outer skin covered in green scales. The flesh inside can be white, red, or magenta, speckled with small black seeds. Dragon fruit has a mildly sweet taste and a texture similar to kiwi. It adds a unique and exotic touch to fruit salads, smoothie bowls, and desserts.</item>
+        <item>Star fruit, also known as carambola, is a tropical fruit that gets its name from its distinctive shape resembling a star when sliced. It has a glossy, yellow to green skin and a crisp, juicy flesh. Star fruit has a sweet and slightly tangy flavor, and it is often enjoyed fresh, sliced into star-shaped pieces. It can be used as a decorative garnish, added to fruit salads, or juiced to make refreshing beverages.</item>
+    </string-array>
+
+    <string-array name="fruit_nutrition_data">
+        <item>Carbohydrates, fiber, vitamin C, vitamin B6, potassium, vitamin B3, vitamin B5, folate, magnesium, and antioxidants.</item>
+        <item>Dietary fiber, vitamin C, vitamin A, vitamin K, vitamin B-complex, various antioxidants and minerals.</item>
+        <item>Vitamin C, vitamin A, vitamin E, vitamin K, fiber, potassium, folate, copper, and various B vitamins.</item>
+        <item>Vitamin C, fiber, vitamin A, potassium, and beneficial citrus flavonoids.</item>
+        <item>Vitamin C, manganese, dietary fiber, bromelain, and antioxidants.</item>
+        <item>Vitamin C, vitamin A, vitamin B6, potassium, lycopene, citrulline, and fiber.</item>
+        <item>Healthy fats, fiber, vitamin K, vitamin E, vitamin C, vitamin B, potassium, folate, and antioxidants.</item>
+        <item>Vitamin C, fiber, antioxidants, manganese, folate, and potassium.</item>
+        <item>Antioxidants, vitamin C, dietary fiber, potassium, and natural sugar.</item>
+        <item>Vitamin C, vitamin A, fiber, enzymes - papain, folate, and potassium.</item>
+        <item>Vitamin C, fiber, antioxidants, iron, and healthy fats.</item>
+        <item>Vitamin C, vitamin A, dietary fiber, antioxidants, and minerals.</item>
+    </string-array>
+
+    <string-array name="fruit_benefit_data">
+        <item>Instant energy, Brain growth and development, Anemia prevention, Healthy digestion, Blood pressure regulation, Weight management, Eye health protection, Reducing heart disease risk, Kidney health support, Stroke risk reduction</item>
+        <item>Heart health, Healthy digestion, Weight control, Blood sugar regulation, Antioxidants for cell health, Provision of vitamins and minerals, Reducing cancer risk, Reducing the risk of neurodegenerative diseases</item>
+        <item>Boosts immune system, Improves digestive health, Eye health, Skin health, Aids hydration, May reduce cancer risk, Regulates blood pressure, Anti-inflammatory properties, Alkalizes the body</item>
+        <item>Boosts collagen paroduction, Heart health, Dietary fiber for digestion, Antioxidants for cell protection, Hydration, May reduce inflammation, Eye health, Supports weight management, May lower cholesterol levels</item>
+        <item>Rich in vitamin C, Digestive aid, Anti-inflammatory properties, Joint health, Healthy skin, Aids in wound healing, Eye health, Hydration, May reduce the risk of chronic diseases, Heart health</item>
+        <item>Hydration, Antioxidants for cell protection, Potential heart health benefits through lycopene, Improved digestion, Support for skin health with vitamins A and C, Relief from muscle soreness due to citrulline, Eye health promotion with beta-carotene, Reduced inflammation, Weight loss support through low-calorie content and high water and fiber, Potential immunity boost with vitamin C</item>
+        <item>Promoting heart health through monounsaturated fats, Providing a rich array of essential nutrients, Supporting weight management, Contributing to eye and skin health with lutein, Zeaxanthin, Antioxidants, Potentially reducing inflammation, Aiding digestive health with high fiber content, Regulating blood sugar levels, Enhancing nutrient absorption, Mitigating oxidative stress with antioxidants like vitamin E</item>
+        <item>Supporting the immune system with vitamin C, Providing antioxidant protection through compounds like anthocyanins and quercetin, Contributing to heart health with fiber and potassium, Potentially reducing inflammation, Aiding digestion, Promoting vibrant skin with antioxidants and vitamin C, Regulating blood sugar levels with fiber, Supporting eye health, Assisting in weight management, Showing potential cancer-protective effects due to its antioxidant content</item>
+        <item>Antioxidant protection, Support for heart health and blood pressure regulation with compounds like resveratrol and potassium, Anti-inflammatory effects, Improved digestion with fiber, Immune system support through vitamin C, Potential cognitive benefits and overall brain health from resveratrol, Anti-aging effects on the skin, Eye health promotion with lutein and zeaxanthin, Potential protective effects against certain types of cancer due to its antioxidant content</item>
+        <item>Supporting the immune system with vitamin C, Aiding digestion and promoting gut health with enzymes like papain, Providing anti-inflammatory effects through compounds like choline, Beta-carotene and lycopene, Contributing to heart health with fiber, Potassium and antioxidants, Enhancing skin health, Benefiting eye health with nutrients, Potentially relieving joint pain and arthritis, Aiding in weight management and supporting metabolism with low-calorie and high-fiber content, Providing menstrual pain relief through the anti-inflammatory effects of papain, Offering a rich array of essential nutrients for overall well-being</item>
+        <item>Antioxidant protection, Support for digestive health and bowel regularity, Contribution to heart health, Suitability for weight management due to its low-calorie content, Hydration support with high water content, Vitamin C boost for the immune system and skin health, Potential blood sugar regulation, Provision of essential nutrients, Potential cancer protection through antioxidants</item>
+        <item>Antioxidant protection, Immune system support with vitamin C, Contribution to heart health, Promotion of digestive health with dietary fiber, Suitability for weight management with low-calorie and high water content, Hydration support, Vitamin A content for healthy skin and vision, Anti-inflammatory properties, Provision of essential nutrients, Potential cancer protection through antioxidants</item>
+    </string-array>
+
+    <string-array name="fruit_photo_data">
+        <item>https://www.refinery29.com/images/10329784.jpg</item>
+        <item>https://blogs.glowscotland.org.uk/glowblogs/public/myeportfolioekma1/uploads/sites/2965/2015/10/Apples-1024x685.jpg</item>
+        <item>https://3.bp.blogspot.com/-m4rmhhHlX0U/T-Wx6v6mUZI/AAAAAAAAAOA/xcr7uapZTmQ/s1600/mango.jpg</item>
+        <item>https://intodayshealth.com/wp-content/uploads/2021/10/Orange-Nutrition-Facts-and-Health-Benefits.jpg</item>
+        <item>https://media.self.com/photos/5b4371cc4d0c3c282a8878d3/2:1/pass/pineapple.jpg</item>
+        <item>https://www.thespruce.com/thmb/pjDqYUU4EG1y_fNU4x23WCbqLXA=/4238x2827/filters:fill(auto,1)/when-to-harvest-watermelon-2539591-04-f7f99d3a73d846cb9d453f8a6f0cc7ee.jpg</item>
+        <item>https://today.ttu.edu/posts/2019/08/Images/avocados-lg.jpg</item>
+        <item>https://www.windsoreats.com/wp-content/uploads/2015/05/strawberry1.jpg</item>
+        <item>https://www.thespruce.com/thmb/emU7sqTna5hHNK3aNrwtjIUH2Gc=/4256x2832/filters:fill(auto,1)/growing-common-grapes-vitis-vinifera-5093675-hero-2d414d87012b4f6da910a71c14eccfd7.jpg</item>
+        <item>https://jooinn.com/images/sliced-papaya-fruit.jpg</item>
+        <item>https://foodrevolution.org/wp-content/uploads/iStock-503045095-1.jpg</item>
+        <item>https://www.conserve-energy-future.com/wp-content/uploads/2020/04/Star-Fruit.jpg</item>
+    </string-array>
+</resources>
